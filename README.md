@@ -1,15 +1,15 @@
-<h2 align="left">Olá! Eu sou Gustavo Campagnin </h2>
+<h2 align="left">Hello! I'm Gustavo Campagnin </h2>
 
 
-### 🚀 Sobre Mim
+### 🚀 About Me
 
 ```typescript
 const gustavo = {
-  location: "Brasil 🇧🇷",
+  location: "Brazil 🇧🇷",
   role: "Full Stack Developer",
   focus: ["Backend APIs", "React Applications", "AI Integrations"],
-  learning: "Sempre algo novo! 📚",
-  funFact: "Transformo café em código ☕→💻"
+  learning: "Always something new! 📚",
+  funFact: "I turn coffee into code ☕→💻"
 };
 ```
 
