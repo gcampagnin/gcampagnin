@@ -8,10 +8,6 @@
   Building scalable applications, clean architectures, and intelligent solutions.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gcampagnin&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
