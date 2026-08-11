@@ -1,53 +1,102 @@
-<h2 align="left">Hello! I'm Gustavo Campagnin </h2>
+<h1 align="center">Hi, I'm Gustavo Campagnin 👋</h1>
 
+<p align="center">
+  <strong>Full Stack Developer · Backend APIs · React · AI Integrations</strong>
+</p>
 
-### 🚀 About Me
+<p align="center">
+  Building scalable applications, clean architectures, and intelligent solutions.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gcampagnin&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+---
+
+### 👨‍💻 About Me
 
 ```typescript
 const gustavo = {
   location: "Brazil 🇧🇷",
   role: "Full Stack Developer",
-  focus: ["Backend APIs", "React Applications", "AI Integrations"],
-  learning: "Always something new! 📚",
-  funFact: "I turn coffee into code ☕→💻"
+  focus: [
+    "Backend APIs",
+    "Scalable Architectures",
+    "React Applications",
+    "AI Integrations"
+  ],
+  principles: ["Clean Code", "Maintainability", "Scalability"],
+  learning: "Always something new 📚",
+  funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
 
-I am a developer passionate about creating intelligent and scalable solutions. I have experience in full-stack development, focusing on **TypeScript**, **Node.js**, and **React**. I believe good code is like good architecture: functional, elegant, and easy to maintain.
+I am a software developer focused on building **reliable, scalable, and maintainable applications**.
+
+My work spans the full stack, with a strong interest in **backend engineering, API design, software architecture, React applications, and AI-powered solutions**.
+
+I enjoy transforming complex requirements into simple solutions and believe good software should be as well-designed internally as it is useful externally.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🧰 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css,postgres,redis,docker,git,github&perline=11" alt="Tech stack" />
+</p>
+
+#### Backend & Architecture
+
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-0D1117?style=for-the-badge&logo=buffer&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Software_Architecture-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Software Architecture" />
+  <img src="https://img.shields.io/badge/API_Design-0D1117?style=for-the-badge&logo=swagger&logoColor=white" alt="API Design" />
+</p>
+
+#### AI & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/AI_Integrations-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integrations" />
+  <img src="https://img.shields.io/badge/LLM_Applications-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Applications" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gcampagnin&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15" alt="gcampagnin's trophies" />
-</div>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gcampagnin&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="gcampagnin's github stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcampagnin&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="./profile/stats.svg" alt="Gustavo Campagnin's GitHub Stats" height="180" />
+  <img src="./profile/top-langs.svg" alt="Most Used Languages" height="180" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gcampagnin&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 ---
+
+### 🎯 What I Care About
+
+- Designing APIs with clear contracts and maintainable boundaries
+- Building software that scales without unnecessary complexity
+- Applying clean architecture principles pragmatically
+- Improving developer experience through automation and tooling
+- Exploring practical ways to integrate AI into real products
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="mailto:gcampagnin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gcampagnin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/gcampagnin">
+    <img src="https://img.shields.io/badge/GitHub-gcampagnin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
