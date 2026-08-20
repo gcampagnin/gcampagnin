@@ -1,0 +1,58 @@
+<svg
+  width="467"
+  height="135"
+  viewBox="0 0 467 135"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Private GitHub Contributions</title>
+  <desc id="desc">Private repository contribution counts</desc>
+
+  <rect width="467" height="135" rx="5" fill="#282a36" />
+
+  <text
+    x="25"
+    y="35"
+    fill="#ff6e96"
+    font-family="Segoe UI, Ubuntu, sans-serif"
+    font-size="18"
+    font-weight="600"
+  >Private Contributions</text>
+
+  <text
+    x="25"
+    y="75"
+    fill="#f8f8f2"
+    font-family="Segoe UI, Ubuntu, sans-serif"
+    font-size="14"
+    font-weight="600"
+  >Total Commits:</text>
+
+  <text
+    x="224"
+    y="75"
+    fill="#f8f8f2"
+    font-family="Segoe UI, Ubuntu, sans-serif"
+    font-size="14"
+    font-weight="600"
+  >333</text>
+
+  <text
+    x="25"
+    y="105"
+    fill="#f8f8f2"
+    font-family="Segoe UI, Ubuntu, sans-serif"
+    font-size="14"
+    font-weight="600"
+  >Total PRs:</text>
+
+  <text
+    x="224"
+    y="105"
+    fill="#f8f8f2"
+    font-family="Segoe UI, Ubuntu, sans-serif"
+    font-size="14"
+    font-weight="600"
+  >45</text>
+</svg>
