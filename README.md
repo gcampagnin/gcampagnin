@@ -71,12 +71,6 @@ I enjoy transforming complex requirements into simple solutions and believe good
 <br />
 
 <div align="center">
-  <img src="./profile/private-stats.svg" alt="Private GitHub Contributions" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
