@@ -19,12 +19,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub stats
+      - name: Generate public GitHub stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true
-          path: profile/stats.svg
+          path: profile/public-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages
