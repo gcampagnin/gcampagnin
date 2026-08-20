@@ -2,6 +2,7 @@ name: Update Profile Stats
 
 on:
   schedule:
+    # Runs before the private aggregation workflow in saas-bike.
     - cron: "0 3 * * *"
   workflow_dispatch:
   push:
