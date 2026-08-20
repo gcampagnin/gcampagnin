@@ -64,7 +64,7 @@ I enjoy transforming complex requirements into simple solutions and believe good
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="Gustavo Campagnin's GitHub Stats" height="180" />
+  <img src="./profile/stats.svg?v=cplus716" alt="Gustavo Campagnin's GitHub Stats" height="180" />
   <img src="./profile/top-langs.svg" alt="Most Used Languages" height="180" />
 </div>
 
